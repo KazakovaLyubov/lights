@@ -1,0 +1,14 @@
+.light{
+	background-image:url(empty.png);
+	height:80px;
+	width:80px;
+}
+.red{
+	background-image:url(red.png);	
+}
+.yellow{
+	background-image:url(yellow.png);	
+}
+.green{
+	background-image:url(green.png);
+}
